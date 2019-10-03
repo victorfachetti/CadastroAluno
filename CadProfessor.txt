@@ -3,3 +3,5 @@ Cadastro de professor
 Matricula:
 Nome:
 E-mail:
+Telefone:
+Disciplinas que leciona:
