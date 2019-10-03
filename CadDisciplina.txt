@@ -2,3 +2,4 @@ Cadastro de disciplina
 
 Codigo:
 Disciplina:
+Curso:
